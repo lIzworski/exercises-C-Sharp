@@ -1,0 +1,16 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.runtimeconfig.dev.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\bin\Debug\net5.0\II.8_Konto.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\refint\II.8_Konto.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\II.8_Konto.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.8_Konto\obj\Debug\net5.0\ref\II.8_Konto.dll

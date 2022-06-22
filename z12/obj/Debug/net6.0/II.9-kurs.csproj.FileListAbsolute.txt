@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\bin\Debug\net6.0\II.9-kurs.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\bin\Debug\net6.0\II.9-kurs.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\bin\Debug\net6.0\II.9-kurs.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\bin\Debug\net6.0\II.9-kurs.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\bin\Debug\net6.0\II.9-kurs.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\refint\II.9-kurs.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\II.9-kurs.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.9-kurs\obj\Debug\net6.0\ref\II.9-kurs.dll
