@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Wektor\bin\Debug\net6.0\Wektor.exe
+C:\Users\HP\source\repos\Wektor\bin\Debug\net6.0\Wektor.deps.json
+C:\Users\HP\source\repos\Wektor\bin\Debug\net6.0\Wektor.runtimeconfig.json
+C:\Users\HP\source\repos\Wektor\bin\Debug\net6.0\Wektor.dll
+C:\Users\HP\source\repos\Wektor\bin\Debug\net6.0\Wektor.pdb
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.AssemblyInfo.cs
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.dll
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\refint\Wektor.dll
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.pdb
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\Wektor.genruntimeconfig.cache
+C:\Users\HP\source\repos\Wektor\obj\Debug\net6.0\ref\Wektor.dll

@@ -1,0 +1,16 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.runtimeconfig.dev.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\bin\Debug\net5.0\Zadanie V-0.2.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\refint\Zadanie V-0.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\Zadanie V-0.2.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz4\ZadanieDomowe\zadV-0-2\Zadanie V-0.2\obj\Debug\net5.0\ref\Zadanie V-0.2.dll
