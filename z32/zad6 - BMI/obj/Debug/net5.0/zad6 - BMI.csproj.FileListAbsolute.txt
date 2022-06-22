@@ -1,0 +1,15 @@
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.exe
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.deps.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.runtimeconfig.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.runtimeconfig.dev.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\ref\zad6 - BMI.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\bin\Debug\net5.0\zad6 - BMI.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.AssemblyInfoInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.AssemblyInfo.cs
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.csproj.CoreCompileInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\ref\zad6 - BMI.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad6 - BMI\zad6 - BMI\obj\Debug\net5.0\zad6 - BMI.genruntimeconfig.cache
