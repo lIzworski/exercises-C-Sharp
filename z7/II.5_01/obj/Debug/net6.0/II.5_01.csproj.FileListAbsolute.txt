@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\bin\Debug\net6.0\II.5_01.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\bin\Debug\net6.0\II.5_01.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\bin\Debug\net6.0\II.5_01.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\bin\Debug\net6.0\II.5_01.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\bin\Debug\net6.0\II.5_01.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\refint\II.5_01.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\II.5_01.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\II.5_01 - Zad wstępne - Klasy 0\II.5_01\obj\Debug\net6.0\ref\II.5_01.dll
