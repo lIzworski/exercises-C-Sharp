@@ -1,0 +1,16 @@
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.exe
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.deps.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.runtimeconfig.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.runtimeconfig.dev.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\ref\cw1.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\bin\Debug\net5.0\cw1.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.csproj.AssemblyReference.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.AssemblyInfoInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.AssemblyInfo.cs
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.csproj.CoreCompileInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\ref\cw1.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\cw1\cw1\obj\Debug\net5.0\cw1.genruntimeconfig.cache
