@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\bin\Debug\net6.0\Zadanie IV-0.4.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\bin\Debug\net6.0\Zadanie IV-0.4.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\bin\Debug\net6.0\Zadanie IV-0.4.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\bin\Debug\net6.0\Zadanie IV-0.4.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\bin\Debug\net6.0\Zadanie IV-0.4.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\refint\Zadanie IV-0.4.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\Zadanie IV-0.4.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.4\obj\Debug\net6.0\ref\Zadanie IV-0.4.dll

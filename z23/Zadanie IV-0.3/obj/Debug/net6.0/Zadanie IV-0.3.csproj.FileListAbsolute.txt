@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\bin\Debug\net6.0\Zadanie IV-0.3.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\bin\Debug\net6.0\Zadanie IV-0.3.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\bin\Debug\net6.0\Zadanie IV-0.3.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\bin\Debug\net6.0\Zadanie IV-0.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\bin\Debug\net6.0\Zadanie IV-0.3.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\refint\Zadanie IV-0.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\Zadanie IV-0.3.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\Zadanie IV-0.3\Zadanie IV-0.3\obj\Debug\net6.0\ref\Zadanie IV-0.3.dll
