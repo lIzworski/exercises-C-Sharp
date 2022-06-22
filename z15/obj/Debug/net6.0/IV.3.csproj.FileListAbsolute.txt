@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\bin\Debug\net6.0\IV.3.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\bin\Debug\net6.0\IV.3.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\bin\Debug\net6.0\IV.3.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\bin\Debug\net6.0\IV.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\bin\Debug\net6.0\IV.3.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\refint\IV.3.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\IV.3.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.3\obj\Debug\net6.0\ref\IV.3.dll

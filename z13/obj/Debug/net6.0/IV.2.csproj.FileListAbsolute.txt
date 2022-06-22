@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\bin\Debug\net6.0\IV.2.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\bin\Debug\net6.0\IV.2.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\bin\Debug\net6.0\IV.2.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\bin\Debug\net6.0\IV.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\bin\Debug\net6.0\IV.2.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\refint\IV.2.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\IV.2.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz3\ZadaniaDomowe\IV.2\obj\Debug\net6.0\ref\IV.2.dll
