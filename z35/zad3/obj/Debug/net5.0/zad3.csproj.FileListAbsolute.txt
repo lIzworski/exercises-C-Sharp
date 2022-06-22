@@ -1,0 +1,15 @@
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.exe
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.deps.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.runtimeconfig.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.runtimeconfig.dev.json
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\ref\zad3.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\bin\Debug\net5.0\zad3.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.AssemblyInfoInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.AssemblyInfo.cs
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.csproj.CoreCompileInputs.cache
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\ref\zad3.dll
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.pdb
+C:\Zajecia - Studia\Programowanie w jezyku c#\Cwicz1\zad3\zad3\obj\Debug\net5.0\zad3.genruntimeconfig.cache
