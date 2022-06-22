@@ -1,0 +1,16 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.runtimeconfig.dev.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\bin\Debug\net5.0\Zad II.7.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\refint\Zad II.7.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\Zad II.7.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz2\Zadanie domowe\Zad II.7\obj\Debug\net5.0\ref\Zad II.7.dll
