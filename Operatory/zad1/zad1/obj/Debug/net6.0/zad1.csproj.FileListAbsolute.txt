@@ -1,0 +1,15 @@
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\bin\Debug\net6.0\zad1.exe
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\bin\Debug\net6.0\zad1.deps.json
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\bin\Debug\net6.0\zad1.runtimeconfig.json
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\bin\Debug\net6.0\zad1.dll
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\bin\Debug\net6.0\zad1.pdb
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.csproj.AssemblyReference.cache
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.AssemblyInfoInputs.cache
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.AssemblyInfo.cs
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.dll
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\refint\zad1.dll
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.pdb
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\zad1.genruntimeconfig.cache
+C:\Users\Lucjan\source\repos\Programowanie obiektowe\Operatory\zad1\zad1\obj\Debug\net6.0\ref\zad1.dll
